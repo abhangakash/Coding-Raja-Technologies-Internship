@@ -1,6 +1,4 @@
-"""
-@author: Robert Kamunde
-"""
+
 
 from tensorflow.keras.preprocessing import image
 import matplotlib.pyplot as plt
